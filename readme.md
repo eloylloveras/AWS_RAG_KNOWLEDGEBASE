@@ -1,4 +1,4 @@
-> Created by @ONCOGENIA group // Hospital General de Granollers - 16/11/2024
+> Created by @LLOVERAS // Hospital General de Granollers - 16/11/2024
 
 
 > [!IMPORTANT]
