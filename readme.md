@@ -1,5 +1,5 @@
 > Created by @LLOVERAS // Hospital General de Granollers - 16/11/2024
-
+> Co-AUTHOR [Lloveras AI Solutions](https://lloverasaisolutions.com/)
 
 > [!IMPORTANT]
 > All documents related to this documentation are uploaded here: [[insert-link-results-folder-from-amazon](https://us-west-2.console.aws.amazon.com/s3/buckets/results-clinic-hackathon-2024?prefix=Team9/Optimizing%20Precision%20Oncology%20in%20the%20Clinic%20Comprehensive%20Cancer%20Center%20with%20Generative%20AI%20(OPERA%20Project)/&region=us-west-2&bucketType=general)]. <br>
